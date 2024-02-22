@@ -51,7 +51,6 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 #### Normalizing the data<BR>
 
-
 ### STEP 6:
 
 Splitting the data into test and train<BR>
