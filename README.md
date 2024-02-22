@@ -158,7 +158,7 @@ print("\nLenght of X_test ",len(X_test))
 
 ![image](https://github.com/PSriVarshan/Ex-1-NN/assets/114944059/beb23c01-7e40-4a4f-a743-b803cd87154d)
 
-### Vakues of 'Y'
+### Values of 'Y'
 
 ![image](https://github.com/PSriVarshan/Ex-1-NN/assets/114944059/12a5643f-4058-4095-9a6e-10ecc1ff4357)
 
